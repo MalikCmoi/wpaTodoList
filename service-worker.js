@@ -23,5 +23,7 @@ precacheAndRoute([
     { url: '/index.html', revision: '2' },
     { url: '/index.js', revision: '1' },
     { url: '/page2.html', revision: '3' },
+    { url: '/index.css', revision: '3' },
+    { url: '/style.css', revision: '3' }
     // Ajoutez d'autres fichiers selon vos besoins
   ]);
